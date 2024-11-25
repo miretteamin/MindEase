@@ -1,1 +1,1 @@
-# mindease
+# MindEase

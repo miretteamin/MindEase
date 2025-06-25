@@ -1,6 +1,7 @@
 # MindEase
 
-**MindEase** is an AI-powered meditation assistant that delivers a personalized, adaptive experience by combining real-time EEG signal processing with Large Language Models (LLMs). Developed for the Consumer AI Edge Hackathon—organized by Meta, Hugging Face, Entrepreneur First, Scaleway, and PyTorch—MindEase brings together neurotechnology and edge AI for a privacy-first, on-device meditation experience.
+**MindEase** is an AI-powered meditation assistant that delivers a personalized, adaptive experience by combining real-time EEG signal processing with Large Language Models (LLMs). Developed for the Consumer AI Edge Hackathon—organized by Meta, Hugging Face, Entrepreneur First, Scaleway, and PyTorch<br> 
+MindEase brings together neurotechnology and edge AI for a privacy-first, on-device meditation experience.
 
 ---
 

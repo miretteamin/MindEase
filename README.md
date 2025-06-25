@@ -1,7 +1,7 @@
 # MindEase
 As part of the Consumer AI Edge Hackathon, organized by Meta, Hugging Face, Entrepreneur First, Scaleway, and PyTorch, our team developed MindEase, a meditation assistant combining real-time EEG signal processing and Large Language Models (LLMs) to deliver a personalized and adaptive experience.
 
-Key Features
+## Key Features
 
 1. Real-Time EEG Signal Processing
 Using the NeuroSky MindWave Mobile 2, we captured EEG signals focusing on Delta, Theta, Alpha, and Beta brainwave frequencies.
@@ -35,7 +35,7 @@ All computations were performed on-device, prioritizing privacy and responsivene
 The user interface visualized brainwave activity and tracked progress across sessions.
 
 
-Outcomes
+## Outcomes
 
 - Real-time EEG processing with adaptive meditation features.
 
